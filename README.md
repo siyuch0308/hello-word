@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Hello, Humans!
 
 I am a researcher from the JAIST (Japanese Advanced Institute of Science and Technology).
